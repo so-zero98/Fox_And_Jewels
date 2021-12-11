@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - floatingPlatform
+  - Enemy
+  - Item
+  - Door
+  - getItem
+  - MovingPlatform
+  - Spike
+  - Ladder
+  - FinishLadder
+  - House
+  - Head
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - FloatingPlatform
+  - Damaged
+  - Enemy
+  - Item
+  - EnemyDie
+  - PlayerDie
+  - MovingPlatform
+  - Spike
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UnderGround
+    uniqueID: 1417734351
+    locked: 0
+  - name: Door
+    uniqueID: 292219675
+    locked: 0
+  - name: Sign
+    uniqueID: 660767625
+    locked: 0
+  - name: Platform
+    uniqueID: 1378131093
+    locked: 0
+  - name: MovingPlatform
+    uniqueID: 3665878399
+    locked: 0
+  - name: Spike
+    uniqueID: 772807071
+    locked: 0
+  - name: Bush
+    uniqueID: 1237874303
+    locked: 0
+  - name: Tree
+    uniqueID: 911419515
+    locked: 0
+  - name: Grass
+    uniqueID: 810246331
+    locked: 0
+  - name: House
+    uniqueID: 1963062705
+    locked: 0
+  - name: Rock
+    uniqueID: 511705769
+    locked: 0
+  - name: Mushroom
+    uniqueID: 1031889157
+    locked: 0
+  - name: FloatingPlatform
+    uniqueID: 46575587
+    locked: 0
+  - name: Ladder
+    uniqueID: 1646911859
+    locked: 0
+  - name: Item
+    uniqueID: 65829573
+    locked: 0
+  - name: Enemy
+    uniqueID: 2413637127
+    locked: 0
+  - name: ChatBubble
+    uniqueID: 2124270113
+    locked: 0
+  - name: Player
+    uniqueID: 243378495
+    locked: 0
